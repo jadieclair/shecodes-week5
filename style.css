@@ -2,3 +2,14 @@ body {
   text-align: center;
   color: green;
 }
+
+#submit {
+  cursor: pointer;
+  color: red;
+  background: #e6abab;
+  border: none;
+  border-radius: 20px;
+  width: 100px;
+  font-size: 15px;
+  padding: 5px 10px;
+}
